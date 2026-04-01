@@ -104,8 +104,8 @@ The business was facing a critical **57.3% churn rate**, putting **$697,000 in M
 git clone [https://github.com/yourusername/viz-ly-churn-analytics.git](https://github.com/yourusername/viz-ly-churn-analytics.git)
 
 ## 📬 Let's Connect
-# I am a Data Analyst passionate about turning complex datasets into strategic business tools.
-# LinkedIn: https://linkedin.com/in/saurav-mourya-596253274
-# Email: sauravmourya54@gmail.com
-# Portfolio: https://sauravcodease.netlify.app
-## If you found this analysis insightful, feel free to ⭐ this repository!
+I am a Data Analyst passionate about turning complex datasets into strategic business tools.
+ LinkedIn: https://linkedin.com/in/saurav-mourya-596253274
+ Email: sauravmourya54@gmail.com
+ Portfolio: https://sauravcodease.netlify.app
+ If you found this analysis insightful, feel free to ⭐ this repository!
